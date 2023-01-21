@@ -1,7 +1,7 @@
 <h1 align="center"> Play Store App Review Analysis</h1>
 
 <p align="center"> 
-<img src="https://github.com/AnshRockstar/Playstore-Apps-Review-Analysis/blob/main/GIF/google%20play.gif" alt="Animated gif" height="382px">
+<img src="https://github.com/prakashchoudhury12/Playstore-Apps-Review-Analysis/blob/main/GIF/google%20play.gif" alt="Animated gif" height="382px">
 </p>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
